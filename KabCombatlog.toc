@@ -1,0 +1,7 @@
+## Title: |cff3399FFKab|r Combatlog
+## Interface: 90001
+## Version: 1.01
+## Author: Kab
+## Notes: Auto combat logging in raids.
+
+KabCombatlog.lua
